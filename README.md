@@ -17,7 +17,7 @@ This Python project extracts and processes information from resumes in PDF forma
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhivesh-Shukla/Resume-Parser.git
+    git clone https://github.com/Abhivesh-Shukla/Resume_Parser.git
     cd resume-parser
     ```
 
